@@ -21,6 +21,7 @@ Anaconda - Python 3.7
 
 ### OUTPUT:
 
+![214647023-acb31e0e-682f-41e8-b8ed-182174c0fe85](https://user-images.githubusercontent.com/118344248/214651091-de20db95-f17d-4ab3-957c-b5c4df23a88a.png)
 
 
 ## RESULT:
